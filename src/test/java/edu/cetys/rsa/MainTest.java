@@ -24,6 +24,6 @@ class MainTest {
         assertEquals(8,euler);
 
         euler = Main.euler(23);
-        assertEquals(12,euler);
+        assertEquals(22,euler);
     }
 }
