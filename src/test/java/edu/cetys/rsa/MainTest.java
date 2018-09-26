@@ -23,8 +23,8 @@ class MainTest {
         int euler = Main.euler(15);
         assertEquals(8,euler);
 
-        euler = Main.euler(32);
-        assertEquals(22,euler);
+        euler = Main.euler(23);
+        assertEquals(0,euler);
 
         //euler = Main.euler(15);
         //assertEquals(10,euler);
